@@ -16,6 +16,7 @@ The main objective of this initiative was to improve front-end skills, using HTM
 ## Preview
 
 ![Preview](https://github.com/RhuanLucass/mundo-invertido/blob/master/assets/images/mundo.png)
+
 ![Preview](https://github.com/RhuanLucass/mundo-invertido/blob/master/assets/images/mundo-invertido.png)
 
 ## How to use
