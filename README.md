@@ -1,4 +1,4 @@
-# Landing Page - Inverted World
+# Landing Page - Upside Down
 
 This project refers to the creation of a Landing Page during Digital Innovation One (DIO) Semana Front-End with the theme of the Stranger Things series. The original Landing Page was not responsive, which was one of the aspects improved during its execution.
 
@@ -21,7 +21,7 @@ The main objective of this initiative was to improve front-end skills, using HTM
 
 ## How to use
 
-- Access the page link on github: [Inverted World](https://rhuanlucass.github.io/mundo-invertido/)
+- Access the page link on github: [Upside Down](https://rhuanlucass.github.io/mundo-invertido/)
 
 or
 
